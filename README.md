@@ -1,4 +1,4 @@
-# Master 1 Data Sciene et Intelligence artificielle 
+# Master 1 :  Data Sciene et Intelligence artificielle (**DSIA**)
 
 > Le présent cours est une introduction aux probabilités de base  suivant les grandes
 Il s’avancera de manière progressive, des notions les plus simples aux plus complexes 
